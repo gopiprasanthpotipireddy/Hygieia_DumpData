@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"dashboarddb.cloud_instance"},{"v":2,"key":{"instanceId":1},"name":"instanceId","ns":"dashboarddb.cloud_instance"},{"v":2,"key":{"accountNumber":1},"name":"accountNumber","ns":"dashboarddb.cloud_instance"}],"uuid":"190ca6bcb7cd4fc68e207001b97622b1"}

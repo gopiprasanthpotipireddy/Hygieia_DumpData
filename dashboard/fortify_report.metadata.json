@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"dashboard.fortify_report"},{"v":2,"key":{"projectId":1,"collectorItemId":1},"name":"project_id","ns":"dashboard.fortify_report"}],"uuid":"8bc68a2fb9ed42dfaa052e7137b2c11b"}

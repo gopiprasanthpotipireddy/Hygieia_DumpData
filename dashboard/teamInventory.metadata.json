@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"dashboard.teamInventory"},{"v":2,"key":{"teamId":1},"name":"teamId","ns":"dashboard.teamInventory"}],"uuid":"9af27cbaf0a443fd96bd83c791bba99b"}

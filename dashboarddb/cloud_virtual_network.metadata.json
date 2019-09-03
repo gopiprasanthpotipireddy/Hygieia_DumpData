@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"dashboarddb.cloud_virtual_network"},{"v":2,"key":{"virtualNetworkId":1},"name":"virtualNetworkId","ns":"dashboarddb.cloud_virtual_network"}],"uuid":"a8ef1ec568fd407db62588c5f343cdb9"}
